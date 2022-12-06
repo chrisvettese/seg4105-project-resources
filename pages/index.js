@@ -27,7 +27,7 @@ export default function Home() {
           <Card sx={{width: 'max-content'}}>
             <CardContent>
               <Typography variant='h5'>Project Architecture</Typography>
-              <img src='/assets/architecture.png' alt='Project Architecture'/>
+              <img src='assets/architecture.png' alt='Project Architecture'/>
             </CardContent>
           </Card>
         </Box>
